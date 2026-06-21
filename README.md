@@ -1,2 +1,3 @@
-# nxt-trendz
-An online clothing shopping platform built with React, featuring product browsing, cart management, and a responsive user interface.
+# Nxt Trendz
+
+Online clothing shopping application built with React.
